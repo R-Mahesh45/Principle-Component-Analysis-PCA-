@@ -98,14 +98,3 @@ Principal Component Analysis is applied to reduce high-dimensional data into few
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for improvements.
-
----
-
-### Requirements.txt
-```txt
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
-```
